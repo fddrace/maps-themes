@@ -5,7 +5,7 @@ There are also themes defined as twmap python scripts that can be auto generated
 Those can be found here: https://github.com/DDNetPP/maps-scripts/tree/master/BlmapChill
 
 
-This repository if for manually mapped themes. That are stored as full regular teeworlds map files.
+This repository is for manually mapped themes. That are stored as full regular teeworlds map files.
 It also contains maps that were auto generated.
 
 This repository should be renamed into designs and located at the root of this repo https://github.com/DDNetPP/server/
