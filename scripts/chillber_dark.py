@@ -16,7 +16,7 @@ if len(sys.argv) != 3:
 m = twmap.Map(sys.argv[1])
 
 #background lamao
-m.groups[0].layers[0].quads[0].colors = [(148, 73, 50, 255), (148, 73, 50, 255),
+m.groups[0].layers[0].quads[0].colors = [(0, 0, 50, 255), (148, 73, 50, 255),
                                          (162, 129, 111, 255), (162, 129, 111, 255)]
 
 #plotbg
