@@ -10,5 +10,5 @@
 
 # like for example chillber_dark which is considered a BlmapChill theme but is applied to chillber
 
-# python3 ./scripts/chillber_dark.py ./BlmapChill/chillber.map ./BlmapChill/chillber_dark.map
+python3 ./scripts/chillber_dark.py ./BlmapChill/chillber.map ./BlmapChill/chillber_dark.map
 
