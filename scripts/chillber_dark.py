@@ -56,5 +56,9 @@ m.groups[18].layers[8].color = (214, 193, 142, 255)
 m.groups[18].layers[9].color = (234, 234, 234, 255)
 m.groups[19].layers[9].color = (162, 144, 99, 255)
 
+#logo
+m.groups[18].layers[11].quads[0].colors = [(213, 213, 213, 255), (213, 213, 213, 255),
+                                         (213, 213, 213, 255), (213, 213, 213, 255)]
+
 m.save(sys.argv[2])
 
