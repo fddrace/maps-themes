@@ -39,6 +39,10 @@ m.groups[11].layers[9].color = (234, 234, 234, 255)
 m.groups[11].layers[10].color = (234, 234, 234, 255)
 m.groups[11].layers[11].color = (234, 234, 234, 255)
 m.groups[11].layers[12].color = (234, 234, 234, 255)
+m.groups[16].layers[1].color = (234, 234, 234, 255)
+m.groups[16].layers[2].color = (234, 234, 234, 255)
+
+#table
 m.groups[16].layers[0].color = (234, 234, 234, 255)
 
 #switch
